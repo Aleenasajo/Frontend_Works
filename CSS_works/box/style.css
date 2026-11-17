@@ -1,0 +1,24 @@
+.card{
+    background-color: rgb(25, 90, 25);
+    width: 450px;
+    height: 200px;
+    color: white;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+}
+.card-heading{
+
+    text-align: center;
+    text-decoration: underline;
+}
+
+.card-body{
+
+   
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
